@@ -7,4 +7,4 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
 
 - Week03
   - Introduction to PyTroch [[notebook]](https://colab.research.google.com/github/naoya1110/al_robotics_lab_2023_hands_on/blob/main/Week03_Introduction_to_PyTorch.ipynb)
-  - (supplimental material) Stochastic Descent Gradient [[notebook]](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2022_hands_on/blob/main/Week03_supplemental_PyTorch_Simple_Linear_Regression_Example.ipynb)
+  - (supplemental material) Stochastic Descent Gradient [[notebook]](https://colab.research.google.com/github/naoya1110/al_robotics_lab_2023_hands_on/blob/main/Week03_supplemental_PyTorch_Simple_Linear_Regression_Example.ipynb)
