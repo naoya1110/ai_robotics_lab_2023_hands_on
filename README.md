@@ -15,5 +15,5 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
 - Week06 10/12
   - Practical_Techniques_for_Training_CNN [[notebook]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/Week06_Practical_Techniques_for_Training_CNN.ipynb)
 
- - Week06 10/19
+- Week06 10/19
   - Image Classification Competition [[notebook]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/Week07_Image_Classification_Competition.ipynb)
