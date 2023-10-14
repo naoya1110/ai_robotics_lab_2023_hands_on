@@ -1,4 +1,5 @@
 # JetBot Software Setup
+## 1. Preparation
 <!--
   - Video Instruction: https://youtu.be/6I9ZT5NKmsA
   - Official Instruction: https://jetbot.org/master/software_setup/sd_card.html
