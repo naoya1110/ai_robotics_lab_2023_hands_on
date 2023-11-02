@@ -25,4 +25,5 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Check hardwares [[video]](https://youtu.be/77WQfj6HOIg)
  
 - Week 09
-  - Collision Avoidance Example [[original]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE) 
+  - Collision Avoidance Example [[Original GitHub Repo]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE)
+  - Remove Broken Image Data [[code]]()
