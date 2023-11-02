@@ -23,3 +23,6 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Introduction to JetBot
   - Setup [[instruction]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/Week08_Jetbot_Software_Setup.md) [[video]](https://youtu.be/Si-kh8yqQHo)
   - Check hardwares [[video]](https://youtu.be/77WQfj6HOIg)
+ 
+- Week 09
+  - Collision Avoidance Example [[original]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE) 
