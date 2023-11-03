@@ -1,6 +1,6 @@
 # Remove Broken Image Files
 
-https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/imgs/broken_image_data_error.png
+![broken_image_data_error](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/imgs/broken_image_data_error.png)
 
 If you got an error something like this, use the code below to remove broken image files from your dataset.
 
