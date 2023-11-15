@@ -25,11 +25,11 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Check hardware [[video]](https://youtu.be/77WQfj6HOIg)
  
 - Week09 11/9
-  - Collision Avoidance Example [[Original GitHub Repo]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE)
+  - Collision Avoidance Example [[original github repo]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE)
   - Remove Broken Image Data [[code]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/remove_bloken_img_data.md)
 
 - Week10 11/16
-  - Road Following by Classification Model
+  - Road Following by Classification Model [[gitHub repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
  
 - Week11 12/7
   - Road Following by Regression Model
