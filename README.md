@@ -29,7 +29,7 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Remove Broken Image Data [[code]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/remove_bloken_img_data.md)
 
 - Week10 11/16
-  - Road Following by Classification Model [[gitHub repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
+  - Road Following by Classification Model [[github repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
  
 - Week11 12/7
   - Road Following by Regression Model
