@@ -32,4 +32,4 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Road Following by Classification Model [[github repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
  
 - Week11 12/7
-  - Road Following by Regression Model
+  - Road Following by Regression Model [[github repo]](https://github.com/naoya1110/road_following_by_regression) [[video]](https://youtu.be/UWU2p3zQht8)
